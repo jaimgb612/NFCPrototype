@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFCPrototype</string>
+    <string name="ready_text">NFC Ready to Go</string>
+    <string name="select_text">Please select product</string>
+    <string name="prod_a_text">Product A</string>
+    <string name="prod_b_text">Product B</string>
+    <string name="prod_c_text">Product C</string>
+    <string name="output_text">"The UUID of this Card is: \n"</string>
+
+</resources>
